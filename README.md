@@ -1,16 +1,3 @@
-```
-                      ..                   
-   ..    .     :     @L                    
- .888: x888  x888.  9888i   .dL        .   
-~`8888~'888X`?888f` `Y888k:*888.  .udR88N  
-  X888  888X '888>    888E  888I <888'888k 
-  X888  888X '888>    888E  888I 9888 'Y"  
-  X888  888X '888>    888E  888I 9888      
-  X888  888X '888>    888E  888I 9888      
- "*88%""*88" '888!`  x888N><888' ?8888u../ 
-   `~    "    `"`     "88"  888   "8888P'  
-                            88F     "P'    
-                           98"             
-                         ./"               
-                        ~`    
-```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clysto&layout=compact)](https://github.com/clysto)
+
+[![clysto's GitHub stats](https://github-readme-stats.vercel.app/api?username=clysto)](https://github.com/clysto)
