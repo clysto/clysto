@@ -10,6 +10,7 @@ Hi👋, I'm 毛亚琛. I'm a geek from China🇨🇳 who loves programming and l
 
 ## Languages and Tools
 
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
@@ -19,8 +20,5 @@ Hi👋, I'm 毛亚琛. I'm a geek from China🇨🇳 who loves programming and l
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40"/>
-
-
-
-
+</p>
 
