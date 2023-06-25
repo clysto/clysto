@@ -1,6 +1,6 @@
 # Yachen Mao
 
-Hi👋, I'm 毛亚琛. I'm a geek from China🇨🇳 who loves programming and learning the latest technologies. I hope some of my little projects can help and inspire you💗!
+Hey there!👋 I'm Mao Yachen, a passionate programmer from China🇨🇳. I thrive on exploring the world of code and staying updated with cutting-edge technologies. My GitHub page showcases a collection of my small yet impactful projects, carefully crafted to provide assistance and ignite inspiration in others💗!
 
 ## Stats
 
@@ -21,5 +21,7 @@ Hi👋, I'm 毛亚琛. I'm a geek from China🇨🇳 who loves programming and l
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
 </p>
 
